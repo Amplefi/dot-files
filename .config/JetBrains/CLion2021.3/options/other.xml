@@ -1,0 +1,49 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="24fRcwLKwaUHcRGtvvqfsir38Ll">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="256DaJ0tbeMJIL8wmi19Bk9Wnio">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25PwEiyhb3ajtKjCPGKtdxfOmQR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="2.5" />
+    <option name="fontSize" value="34" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="CL-213.6777.58-02bf10f77afb97d2c631f89c1fefc9356b0309f116e448470c6c18a2ee7c7af1" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="bundled.plugins.list.saved.version" value="CL-213.6777.58" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="evlsprt3.213" value="7" />
+    <property name="file.gist.reindex.count" value="44" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="gotit.previous.run" value="CL-213.6777.58" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="qualified.names.node.provider.file.structure.state" value="true" />
+    <property name="registry.to.advanced.settings.migration.build" value="CL-213.6777.58" />
+    <property name="structure.view.defaults.are.configured" value="true" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.5.4" />
+  </component>
+</application>

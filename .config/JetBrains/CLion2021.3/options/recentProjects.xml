@@ -1,0 +1,45 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/cs50-credit">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cs50_credit – main.cpp" projectWorkspaceId="24fRcwLKwaUHcRGtvvqfsir38Ll">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-213.6777.58" />
+              <option name="buildTimestamp" value="1643648904067" />
+              <frame x="12" y="75" width="1780" height="1913" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1644838704393" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/timeConverter">
+          <value>
+            <RecentProjectMetaInfo frameTitle="timeConverter" projectWorkspaceId="256DaJ0tbeMJIL8wmi19Bk9Wnio">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-213.6777.58" />
+              <option name="buildTimestamp" value="1643648926450" />
+              <frame x="12" y="75" width="1780" height="1913" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1645441920193" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/Learning">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Learning – main.c" opened="true" projectWorkspaceId="25PwEiyhb3ajtKjCPGKtdxfOmQR">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-213.6777.58" />
+              <option name="buildTimestamp" value="1643648924000" />
+              <frame x="12" y="75" width="2976" height="1913" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1645441923139" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
+  </component>
+</application>

@@ -1,0 +1,58 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="5" l="1644306456864" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="2" l="1644306390113" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="34" l="1644306497432" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1644306341159" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1644306430845" />
+    </e>
+    <e n="EditorDown">
+      <i c="3" l="1644306441623" />
+    </e>
+    <e n="EditorEnter">
+      <i c="3" l="1644306461415" />
+    </e>
+    <e n="EditorLeft">
+      <i c="26" l="1644306484222" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="1" l="1644306366610" />
+    </e>
+    <e n="EditorRight">
+      <i c="22" l="1644306460151" />
+    </e>
+    <e n="EditorTab">
+      <i c="3" l="1644306463717" />
+    </e>
+    <e n="EditorUp">
+      <i c="4" l="1644306417197" />
+    </e>
+    <e n="Run">
+      <i c="4" l="1644306426094" />
+    </e>
+    <e n="SaveAll">
+      <i c="8" l="1644306498714" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1644306433811" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1644306612651" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
+      <i c="1" l="1644306580501" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="1" l="1644305939627" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/Learning" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/cs50-credit" value="true" />
+        <entry key="$USER_HOME$/CLionProjects/timeConverter" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

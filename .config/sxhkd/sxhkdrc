@@ -1,0 +1,63 @@
+# terminal
+super + Return
+	kitty
+
+# browser
+super + b 
+	firefox
+
+# open rofi search
+super + @space
+	rofi -show run
+
+# close/kill node
+super + {_,shift +}w
+	bspc node -{c,k}
+
+# quit/restart bspwm
+super + alt + {q,r}
+	bspc {quit,wm -r}
+
+# restart sxhkd
+super + Escape
+	pkill -USR1 -x sxhkd
+
+# file browser
+super + p
+  kitty -e ranger
+
+# focus the node in the given direction
+super + {_,shift + }{h,j,k,l}
+	bspc node -{f,s} {west,south,north,east}
+
+# set the window state
+super + {t,s,f}
+	bspc node -t {tiled,floating,fullscreen}
+
+# focus/send to givin window
+super + {_,shift + }{1-9,0}
+	bspc {desktop -f,node -d} '^{1-9,10}'
+# volume
+XF86AudioRaiseVolume
+  amixer set Master 5%+
+
+XF86AudioLowerVolume
+  amixer set Master 5%-
+
+XF86AudioMute
+  amixer set Master toggle
+
+# resize windows
+super + alt + {h,j,k,l}
+    {bspc node @parent/second -z left -20 0; \
+    bspc node @parent/first -z right -20 0, \
+    bspc node @parent/second -z top 0 +20; \
+    bspc node @parent/first -z bottom 0 +20, \
+    bspc node @parent/first -z bottom 0 -20; \
+    bspc node @parent/second -z top 0 -20, \
+    bspc node @parent/first -z right +20 0; \
+    bspc node @parent/second -z left +20 0}
+
+# floating window resizing
+super + !button{1-3}
+    bspc pointer -t %i %i

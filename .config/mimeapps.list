@@ -1,0 +1,9 @@
+[Added Associations]
+text/plain=kitty.desktop;
+application/x-shellscript=kitty.desktop;
+image/jpeg=ranger.desktop;feh.desktop;
+
+[Default Applications]
+text/plain=kitty.desktop
+application/x-shellscript=kitty.desktop
+image/jpeg=feh.desktop
